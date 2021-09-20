@@ -1,6 +1,8 @@
 # Unreal-Minesweeper-Slate-Plugin
 ![game in progress screen](screenshots/screenshot-5.png)
 
+**Engine Version:** 4.27
+
 Minesweeper Toolbar plugin made in Unreal 4. This plugin will add a toolbar button to the top of the editor that will spawn a new tab allowing the user to play Minesweeper. Minesweeper was made using Slate elements. Users will be able to adjust how many rows, columns, and mines are present on the game board, each has a max of 30. The design is very simplistic. 
 
 All the code is found in `Plugins/MinesweeperPlugin/Source/MinesweeperPlugin`
